@@ -1,4 +1,3 @@
-### Hi there 👋
 ![emtee14's github stats](https://github-readme-stats.vercel.app/api?username=emtee14)
 
 <!--
