@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on !(Pogify)[https://pogify.net]
+- 🔭 I’m currently working on [Pogify](https://pogify.net)
 - 🌱 I’m currently learning Golang
 - 💬 Ask me about ...
 - 📫 How to reach me: 
