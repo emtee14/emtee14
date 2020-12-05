@@ -8,4 +8,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [Pogify](https://pogify.net)
 - 🌱 I’m currently learning Golang
 - 📫 How to reach me: 
-  Discord - @EmTee#3884
+  Discord - @EmTee#6969
