@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on [Pogify](https://pogify.net)
+- 🔭 I’m currently working on Data driven application for house prices in the uk
 - 🌱 I’m currently learning Vue.js
 - 📫 How to reach me: 
   Discord - @EmTee#8706
