@@ -6,6 +6,6 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on [Pogify](https://pogify.net)
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently learning Vue.js
 - 📫 How to reach me: 
   Discord - @EmTee#8706
