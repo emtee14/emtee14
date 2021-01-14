@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on a data driven application for house prices in the uk
+- 🔭 I’m currently working on a data driven application for analysis on house prices in the uk
 - 🌱 I’m currently learning Vue.js
 - 📫 How to reach me: 
   Discord - @EmTee#8706
