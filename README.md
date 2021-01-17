@@ -8,4 +8,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on an application for analysis on house prices in the uk over the past 25 years
 - 🌱 I’m currently learning Vue.js
 - 📫 How to reach me: 
-  Discord - @EmTee#8706
+  - Discord - @EmTee#8706
+  - Keybase - emtee14
+  
