@@ -13,7 +13,7 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@sansyrox" height="20" width="20" />
   </a>
 
-  <a href="<a href="https://linkedin.com/in/https://www.linkedin.com/in/morgan-rhys-thomas/" target="blank">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/morgan-rhys-thomas/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sansyrox" height="20" width="20" />
   </a>
 
