@@ -1,6 +1,5 @@
-![emtee14's github stats](https://github-readme-stats.vercel.app/api?username=emtee14)<br />
-
 <p align="center">
+  ![emtee14's github stats](https://github-readme-stats.vercel.app/api?username=emtee14)<br />
   <a href="https://morgan-thomas.co.uk" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="@sansyrox" height="20" width="20" />
   </a>
