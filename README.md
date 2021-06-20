@@ -9,7 +9,7 @@
     <img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="@sansyrox" height="20" width="20" />
   </a>
 
-  <a href="https://medium.com/" target="blank">
+  <a href="https://medium.com/@morgyman95" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@sansyrox" height="20" width="20" />
   </a>
 
