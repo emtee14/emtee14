@@ -1,4 +1,6 @@
-![emtee14's github stats](https://github-readme-stats.vercel.app/api?username=emtee14)<br />
+![emtee14's github stats](https://github-readme-stats.vercel.app/api?username=emtee14)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=emtee14)
+<br />
 <p align="center">
   <a href="https://morgan-thomas.co.uk" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="@sansyrox" height="20" width="20" />
