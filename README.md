@@ -3,7 +3,7 @@
 - 📫 How to reach me: morgan@housestats.co.uk or morganrhysthomas14@gmail.com
 - 💬 Ask me about anything!
 
-[Support Me](https://www.buymeacoffee.com/morganthomas)
+<!-- [Support Me](https://www.buymeacoffee.com/morganthomas) -->
 
 <!--
 **emtee14/emtee14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
